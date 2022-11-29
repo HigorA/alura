@@ -1,1 +1,1 @@
-# Projeto Grid Alura
+# Projeto Grid Alura | Alura Store
